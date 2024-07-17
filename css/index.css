@@ -70,19 +70,19 @@ a {
 .markdown-body .markdown-body {
     padding-top: 0 !important;
     padding-left: 0 !important;
-    padding-right: 0 !important
+    padding-right: 0 !important;
 }
 
 .markdown-body {
     margin: 0 auto 0 auto;
     margin-top: 0 !important;
     padding: 90px 35px 30px 35px;
-    max-width: 980px
+    max-width: 980px;
 }
 
 @media screen and (max-width:479px) {
     .markdown-body {
-        padding: 70px 15px 30px 15px
+        padding: 70px 15px 30px 15px;
     }
 }
 
