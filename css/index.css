@@ -14,6 +14,7 @@ html {
 }
 
 body{
+    background-color: rgba(62, 235, 128, 0.2)!important;
     background-image: url('../img/leaves.gif');
     background-size:20%;
     z-index: -1;
