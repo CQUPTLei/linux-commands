@@ -327,6 +327,7 @@ a {
 }
 
 .search_list {
+    padding-top: 6%!important;
     padding: 79px 27px
 }
 
@@ -359,6 +360,7 @@ a {
 }
 
 .hotlist {
+    padding-top: 6%!important;
     padding: 79px 27px
 }
 
